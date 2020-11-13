@@ -29,6 +29,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "email-addresses": "^3.1.0"
+    "email-addresses": "https://github.com/osm/email-addresses#7bcfcc512ebbb9b8a3ac3deb8bf016436b966664"
   }
 }
